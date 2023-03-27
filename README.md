@@ -4,3 +4,5 @@ it need windows 11/10
 os 64 bit
 run the code you need vs code updated version ,all the code are link to each other
 kindly used your api because it is limited to 18 credits only
+generate your own api  because i removed it
+take your own image at background
