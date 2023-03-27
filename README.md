@@ -1,5 +1,5 @@
 # image-generate-from-text
-First create files namely index.html, style.css and javascript in a folder.
+Create files namely index.html, style.css and javascript in a folder.
 Write the code and paste take the API from delle2 and image generation url from image part in references and it add into your javascript code to fetch the API and add the 'generate image' code in post method.
 It requires Windows 11/10.
 OS 64x bit
